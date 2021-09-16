@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM nistraining/webapp
 ADD . /var/www/html
